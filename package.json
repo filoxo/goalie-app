@@ -1,0 +1,24 @@
+{
+  "name": "goalie-app",
+  "version": "0.0.1",
+  "description": "Goal tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filoxo/goalie-app.git"
+  },
+  "keywords": [
+    "goals",
+    "fitness",
+    "app"
+  ],
+  "author": "Carlos Filoteo & Mat Harb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filoxo/goalie-app/issues"
+  },
+  "homepage": "https://github.com/filoxo/goalie-app#readme"
+}
